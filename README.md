@@ -34,7 +34,7 @@ This tutorial is about ESP Matter Solutions. We've discussed..
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
-🌐 GitHub Repository - 🔗 https://github.com/make2explore/esp32-RainMaker  
+🌐 GitHub Repository - 🔗 https://github.com/make2explore/esp32-Matter  
   
 🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore  
   
