@@ -21,7 +21,7 @@ This tutorial is about ESP Matter Solutions. We've discussed..
 
 📕 **YouTube Video Links**  
 
-▶️ [Tutorial] Getting Started with Matter on ESP32 - 🔗 https://youtu.be/  
+▶️ [Tutorial] Getting Started with Matter on ESP32 - 🔗 https://youtu.be/c6K8ZA3cKEQ  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
