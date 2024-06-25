@@ -27,7 +27,7 @@ This tutorial is about ESP Matter Solutions. We've discussed..
 📒 **Important Links**  
  
 🌐 ESP Matter - 🔗https://www.espressif.com/en/solutions/device-connectivity/esp-matter-solution  
-📙 ESP RainMaker Docs 🔗 https://github.com/espressif/esp-matter   
+📙 ESP Matter Docs 🔗 https://github.com/espressif/esp-matter   
 🛠 ESP Launchpad Tool for Matter 🔗 https://espressif.github.io/esp-launchpad/?solution=matter  
 
 ------------------------------------------------------------------------------------------------------
